@@ -4,6 +4,8 @@
 
 ![Native Seed Comb](seed-comb.png)
 
+This is a comb for harvesting seeds and berries from native plants. You pull the comb through a plant's seed heads and the teeth gently pop the seeds and berries off. A cup clips onto the back of the comb to catch them as they fall so they don't get lost on the ground. There is a coarse comb for big seeds and berries and a fine comb for tiny seeds, and they twist on and off the handle. You can save the seeds and plant them next year to grow even more native plants for pollinators and other wildlife!
+
 ## Printed with PHA 🌱
 
 **What is PHA?** PHA is a plastic made by tiny microbes! They munch on plant sugars and oils and store the PHA inside their bodies, kind of like how we store energy.
